@@ -1,0 +1,108 @@
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\appsettings.json
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Authorization.exe
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Authorization.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\ref\Authorization.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Authorization.pdb
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.csprojAssemblyReference.cache
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.pdb
+C:\Users\Venky\source\repos\Authorization\Authorization\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Authorization.exe
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\ref\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Authorization.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.csprojAssemblyReference.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Authorization\Authorization\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\appsettings.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Authorization.exe
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Authorization.deps.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Authorization.runtimeconfig.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Authorization.runtimeconfig.dev.json
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\ref\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Authorization.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.AssemblyInfoInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.AssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.Manifest.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\staticwebassets\Authorization.StaticWebAssets.xml
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\scopedcss\bundle\Authorization.styles.css
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.RazorTargetAssemblyInfo.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.csproj.CopyComplete
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\ref\Authorization.dll
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.pdb
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.genruntimeconfig.cache
+C:\Users\raghu\Desktop\CTS sir examples\Project API's\Authorization\Authorization\obj\Debug\net5.0\Authorization.csprojAssemblyReference.cache
