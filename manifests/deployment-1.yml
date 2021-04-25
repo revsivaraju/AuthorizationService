@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: "portfoliokubernetescluster-0093"
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app: "portfoliokubernetescluster-0093"
